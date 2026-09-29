@@ -1,0 +1,8 @@
+build/
+build-*/
+*.o
+*.out
+mini_engine
+.vscode/
+.idea/
+.DS_Store
